@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "871834688405",
+    "firebase_url": "https://barcode-scanner-57d3b.firebaseio.com",
+    "project_id": "barcode-scanner-57d3b",
+    "storage_bucket": "barcode-scanner-57d3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871834688405:android:c98b46dc52aa22e364f49c",
+        "android_client_info": {
+          "package_name": "com.example.barcode_scanning_live_feed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871834688405-c5c8ojsolrt8mp9h00jq23098ef5fja0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcxplvSTPHrLLZpzH92EPCud03kEyfbn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871834688405-c5c8ojsolrt8mp9h00jq23098ef5fja0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871834688405:android:e18e33d5d18efda664f49c",
+        "android_client_info": {
+          "package_name": "com.example.barcodescanner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871834688405-gioiqpjace6aei3vvdn2ktdi9adpa4eh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barcodescanner",
+            "certificate_hash": "e1141a4e87852cbe71b91037ea8ce16e13245e2c"
+          }
+        },
+        {
+          "client_id": "871834688405-c5c8ojsolrt8mp9h00jq23098ef5fja0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcxplvSTPHrLLZpzH92EPCud03kEyfbn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871834688405-c5c8ojsolrt8mp9h00jq23098ef5fja0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871834688405:android:766e4afb0481fd3b64f49c",
+        "android_client_info": {
+          "package_name": "com.example.ml_kit_barcode_scanning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871834688405-c5c8ojsolrt8mp9h00jq23098ef5fja0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcxplvSTPHrLLZpzH92EPCud03kEyfbn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871834688405-c5c8ojsolrt8mp9h00jq23098ef5fja0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871834688405:android:cafdd935737f251064f49c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871834688405-1rpkkvq1g34a9m4uufgv35su8vt2p4qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "e1141a4e87852cbe71b91037ea8ce16e13245e2c"
+          }
+        },
+        {
+          "client_id": "871834688405-c5c8ojsolrt8mp9h00jq23098ef5fja0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcxplvSTPHrLLZpzH92EPCud03kEyfbn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871834688405-c5c8ojsolrt8mp9h00jq23098ef5fja0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
